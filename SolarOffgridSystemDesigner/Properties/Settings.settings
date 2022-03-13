@@ -1,0 +1,78 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SolarOffgridSystemDesigner.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ModuleLosses" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">15</Value>
+    </Setting>
+    <Setting Name="LPSecurityFactor" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Ka" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="Kb" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="Kc" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="Kr" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="Kx" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="Daut" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="Pd" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">50</Value>
+    </Setting>
+    <Setting Name="Kt" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0.65</Value>
+    </Setting>
+    <Setting Name="Favmodule1" Type="System.UInt32" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Favmodule2" Type="System.UInt32" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Favmodule3" Type="System.UInt32" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Favmodule4" Type="System.UInt32" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Favmodule5" Type="System.UInt32" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="APIKey_NREL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">u9hEEQj62HzHMi9wUvEWe3LxC25aAgdFfFMiwQHy</Value>
+    </Setting>
+    <Setting Name="FavInverter1" Type="System.UInt32" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="FavInverter2" Type="System.UInt32" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="FavInverter3" Type="System.UInt32" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="FavInverter4" Type="System.UInt32" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="FavInverter5" Type="System.UInt32" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="InterspaceLength" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0.05</Value>
+    </Setting>
+    <Setting Name="ReportCompWebsite" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://classlesoft.in</Value>
+    </Setting>
+    <Setting Name="ReportCompAddress" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Cologne, Germany</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
